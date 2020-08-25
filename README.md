@@ -1,2 +1,2 @@
 # keras_tuner
-Exploring hyperparameter optimization with the Keras Tuner
+https://keras-team.github.io/keras-tuner/
